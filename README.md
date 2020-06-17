@@ -1,2 +1,2 @@
-# Turtle-pygame
-i will upload my programs and projects based on turtle and pygame in this repository
+# Gaming with python
+the programs uploaded here are a part of my "create your own game with python" mini-course which can be found at this link : https://foursteps-school.thinkific.com/courses/create-your-own-game-with-python
